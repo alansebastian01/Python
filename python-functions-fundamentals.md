@@ -1,4 +1,3 @@
-Here’s a clean version you can paste into a GitHub `README.md`.
 
 # Python Functions Fundamentals
 
@@ -935,6 +934,3 @@ Output:
 50
 ```
 
-Once you become comfortable creating small functions like this, you will be ready to build larger Python programs by combining many small functions together.
-
-For GitHub, a good filename would be `python-functions-fundamentals.md`, or you can use this directly as the `README.md` of a Python learning repository.
